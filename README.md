@@ -10,7 +10,7 @@ DolphinShuffler is a Python script designed to automate game swapping in a speci
 - Spacebar interrupt for manual control over the game swapping.
 
 ## Downloading the Script
-You can download the latest stable version of DolphinShuffler from the "releases section on the GitHub repository. This is the recommended way to obtain the script if you are not planning to modify the source code.
+You can download the latest stable version of DolphinShuffler from the [releases](https://github.com/NolwenB/DolphinShuffler_Source/latest) section on the GitHub repository. This is the recommended way to obtain the script if you are not planning to modify the source code.
 
 ## Installation and Setup (Running from Source)
 If you choose to run DolphinShuffler from the source code, follow these steps:
