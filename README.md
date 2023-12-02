@@ -38,4 +38,4 @@ This executable can be distributed and run on Windows systems without requiring 
 This code was not created by the person distributing this README. It was developed by DougDoug, a Twitch streamer known for his innovative and interactive gaming content. All credit for the creation and original idea of this tool goes to DougDoug.
 
 ## Note
-This README was generated with the assistance of [ChatGPT](chat.openai.com).
+This README was generated with the assistance of [ChatGPT](https://chat.openai.com).
