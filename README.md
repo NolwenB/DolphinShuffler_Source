@@ -1,4 +1,4 @@
-# DolphinShuffler
+# Mario Kart Wii Game Shuffler \[DolphinShuffler]
 
 ## Overview
 DolphinShuffler is a Python script designed to automate game swapping in a specified list of save slots. This tool is especially useful for creating dynamic gaming experiences or challenges. It was originally created by Twitch streamer DougDoug, whose creative content can be found on his [YouTube channel](https://www.youtube.com/@DougDoug) and [Twitch stream](https://www.twitch.tv/dougdoug). The source files for this script were shared during one of his streams, which can be viewed [here](https://youtu.be/l0H1P2SWlQY&t=28060).
